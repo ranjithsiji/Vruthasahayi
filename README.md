@@ -10,4 +10,4 @@
 ### Running Instructions:
 1. Extract the contents of vruthasahayi_0.1_linux.tar.gz into a directory.
 2. Run the file vruthasahayi.py
-3. See detailed online help by pressing <F1> after launching Vrutha Sahayi.
+3. See detailed online help by pressing <F1> key after launching Vrutha Sahayi.
