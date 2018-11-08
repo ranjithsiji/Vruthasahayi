@@ -1,0 +1,12 @@
+<ul>
+  <li> <object type="text/sitemap">
+           <param name="Name" value="@topic name@">
+           <param name="ID" value=@numeric_id@>
+           <param name="Local" value="@filename.htm@">
+       </object>
+  <li> <object type="text/sitemap">
+           <param name="Name" value="@topic name@">
+           <param name="ID" value=@numeric_id@>
+           <param name="Local" value="@filename.htm@">
+       </object>
+</ul>

@@ -1,0 +1,17 @@
+<ul>
+  <li> <object type="text/sitemap">
+           <param name="Name" value="Introduction">
+           <param name="ID" value=1>
+           <param name="Local" value="vruthamsintro.htm">
+       </object>
+  <li> <object type="text/sitemap">
+           <param name="Name" value="Vrutha Lakshanam">
+           <param name="ID" value=2>
+           <param name="Local" value="vruthamslakshanam.htm">
+       </object>
+  <li> <object type="text/sitemap">
+           <param name="Name" value="Alphabetic Index of Vruthams">
+           <param name="ID" value=3>
+           <param name="Local" value="vruthamsindex.htm">
+       </object>
+</ul>
